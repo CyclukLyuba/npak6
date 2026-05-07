@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+*.log
+
+# Visual Studio / C#
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cachefile
+*.csproj.user
+
+# Среда разработки
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Временные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Файлы с секретами (если будут)
+.env
+config.local.*
